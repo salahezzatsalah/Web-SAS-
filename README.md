@@ -1,8 +1,12 @@
 Welcome to the Student Advisory System (SAS)!
 
-Problem: Many students face challenges in course registration and communication with advisors, leading to delays and confusion.
+Problem:
 
-Solution: SAS offers a user-friendly platform to streamline course registration, enable direct communication with advisors, and enhance student success.
+Many students face challenges in course registration and communication with advisors, leading to delays and confusion.
+
+Solution:
+
+SAS offers a user-friendly platform to streamline course registration, enable direct communication with advisors, and enhance student success.
 
 Key Features:
 
