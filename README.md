@@ -1,19 +1,19 @@
 Student Advisory System (SAS)
-Many students encounter difficulties when registering for courses each semester and effectively communicating with their academic advisors. These challenges often lead to delays in course selection, scheduling conflicts, and a lack of clarity regarding academic requirements. Recognizing the need for a solution, we have embarked on the development of a comprehensive Student Advisory System (SAS).
+Welcome to the Student Advisory System (SAS)!
 
-Our goal is to alleviate the registration and communication struggles faced by students by providing them with a user-friendly platform to interact with their academic advisors seamlessly. The Student Advisory System (SAS) aims to streamline the course registration process, facilitate direct communication channels between students and advisors, and enable efficient problem-solving mechanisms.
+Problem: Many students face challenges in course registration and communication with advisors, leading to delays and confusion.
 
-By implementing the Student Advisory System (SAS), we seek to empower students to navigate their academic journey with confidence and efficiency. Through improved registration processes and enhanced communication channels, we aim to enhance the overall academic experience and contribute to student success.
+Solution: SAS offers a user-friendly platform to streamline course registration, enable direct communication with advisors, and enhance student success.
 
-Functional Requirements
-Profile Management: The system must allow the student to manage profiles, including personal information such as name, student ID, CGPA, and contact details.
+Key Features:
+Profile Management: Easily update personal details and academic information.
 
-Advisor Information: The system must allow students to view their academic advisor's contact information and scheduled meeting dates.
+Advisor Info: Access advisor contact details and scheduled meeting dates.
 
-Course Catalog: The system must provide a course catalog for students to browse and search for available courses this semester.
+Course Catalog: Browse and search available courses for the semester.
 
-Course Overrides: The system must allow students to request course overrides or waivers from their academic advisors.
+Course Overrides: Request course overrides or waivers conveniently.
 
-Advisor Recommendations: The system must allow academic advisors to recommend plans for students based on their academic goals and progress.
+Advisor Recommendations: Receive tailored plans based on academic goals.
 
-Session Notes: The system must allow academic advisors to record notes and feedback from advising sessions with students.
+Session Notes: Advisors can record session notes for effective follow-up.
